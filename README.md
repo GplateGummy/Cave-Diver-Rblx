@@ -1,5 +1,7 @@
 # Cave-Diver-Rblx
 
+!! THE GAME MUST HAVE PLAYER COLLISIONS OFF !!
+
 - Roblox Client Lua
 
 Copy paste the code into the script ain't putting it in here.
