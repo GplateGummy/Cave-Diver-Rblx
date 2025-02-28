@@ -43,7 +43,6 @@ local function LockHumanoid(Humanoid)
 end
 
 local function UnlockHumanoid(Humanoid)
-	print("unlocking")
 	if not Humanoid then return end
 	Humanoid.PlatformStand = false
 	Humanoid.AutoRotate = true
